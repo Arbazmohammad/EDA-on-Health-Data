@@ -1,1 +1,1 @@
-# EDA-on-Health-Data
+# EDA-on-Healthcare-Data
